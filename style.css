@@ -1,5 +1,13 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  margin: 0;
+  box-sizing: border-box;
+}
 #heading{
   background-color: red;
+  padding: 15px;
 }
 #head1{
   color: white;
@@ -7,27 +15,33 @@
 }
 #head2{
   color: darkblue;
-  padding: 20px;
   font-size: 1.6em;
-  text-align: left;
+  float: left;
+  width: 50%;
 }
 #find{
   background-color: #07374c;
   border: 2px solid;
   border-radius: 10px;
-  width: 40%;
-  height: auto;
-    padding: 20px;
     box-shadow: 5px 5px 15px;
-  text-align: left;
+  float: left;
 }
 #head3{
-  text-align: right;
-}
-#head2{
-  align-items: left;
+  color: darkblue;
+  padding: 2px;
+   font-size: 1.6em;
+   text-align: right;
 }
 #p1{
   font-style: italic;
   color: whitesmoke;
+}
+#reg{
+  background-color: limegreen;
+  border: 2px solid;
+  width: 50%;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 5px 5px 15px;
+  float: right;
 }
