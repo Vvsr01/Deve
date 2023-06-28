@@ -1,0 +1,33 @@
+#heading{
+  background-color: red;
+}
+#head1{
+  color: white;
+  text-align: center;
+}
+#head2{
+  color: darkblue;
+  padding: 20px;
+  font-size: 1.6em;
+  text-align: left;
+}
+#find{
+  background-color: #07374c;
+  border: 2px solid;
+  border-radius: 10px;
+  width: 40%;
+  height: auto;
+    padding: 20px;
+    box-shadow: 5px 5px 15px;
+  text-align: left;
+}
+#head3{
+  text-align: right;
+}
+#head2{
+  align-items: left;
+}
+#p1{
+  font-style: italic;
+  color: whitesmoke;
+}
