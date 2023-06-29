@@ -22,6 +22,7 @@ body{
 #find{
   background-color: #07374c;
   border: 2px solid;
+  height: auto;
   border-radius: 10px;
   box-shadow: 5px 5px 15px;
   float: left;
@@ -39,7 +40,6 @@ body{
 #reg{
   background-color: blueviolet;
   border: 2px solid;
-  width: 50%;
   height: auto;
   border-radius: 10px;
   box-shadow: 5px 5px 15px;
