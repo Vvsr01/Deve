@@ -23,7 +23,7 @@ body{
   background-color: #07374c;
   border: 2px solid;
   border-radius: 10px;
-    box-shadow: 5px 5px 15px;
+  box-shadow: 5px 5px 15px;
   float: left;
 }
 #head3{
@@ -37,7 +37,7 @@ body{
   color: whitesmoke;
 }
 #reg{
-  background-color: limegreen;
+  background-color: blueviolet;
   border: 2px solid;
   width: 50%;
   height: auto;
